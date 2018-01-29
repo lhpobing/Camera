@@ -63,8 +63,8 @@ Change screenshot/StickerCamera.zip to StickerCamera.apk
 
 # Contact Me
 
-- Weibo: http://weibo.com/2030683111
-- Email: 1132234509@qq.com
+- Weibo: https://weibo.com/u/5664105879
+- Email: 1426130588@qq.com
 
 # License
 ```

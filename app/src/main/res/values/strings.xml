@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">StickerCamera</string>
+    <string name="app_name">贴纸相机</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
