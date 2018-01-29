@@ -15,7 +15,7 @@ import com.stickercamera.app.model.PhotoItem;
 import java.util.Stack;
 
 /**
- * 相机管理类
+ * 相机管理类啊
  * Created by sky on 15/7/6.
  * Weibo: http://weibo.com/2030683111
  * Email: 1132234509@qq.com
